@@ -7,7 +7,7 @@
 ## Setup
 
 - Run `npm install`
-- Run `npm build`
+- Run `npm run build`
 - It will fail with error `error TS1005: ',' expected.`
 
 ### Specific to TypeScript >4.0.0 <4.5.0
