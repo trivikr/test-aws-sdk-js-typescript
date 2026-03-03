@@ -1,0 +1,14 @@
+{
+  "name": "test-aws-sdk-js-typescript",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^14.18.63",
+    "typescript": "~4.0.0"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sts": "3.723.0"
+  }
+}
